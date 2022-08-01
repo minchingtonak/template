@@ -1,4 +1,3 @@
-
 # template
 
 Light and fast Preact site template using Vite.
@@ -14,6 +13,11 @@ Light and fast Preact site template using Vite.
 
 ## Features
 
-* TailwindCSS
-* ESLint on watch/build
-* TypeScript type checking on watch/build
+- TailwindCSS
+- ESLint on watch/build
+- TypeScript type checking on watch/build
+
+## Maintenance
+
+- `npm run dryupdate # check for package updates`
+- `npm run update # update package.json with new package versions`
